@@ -6,4 +6,4 @@ Python小料理レシピ。日本語で書きます。僕が日本人だから�
 ## メニュー
 1. [EC2](./ec2)  
     1.1 [インスタンスIDのリスト](./ec2/list_instance_id)  
-    1.1 [AMI IDのリスト](./ec2/list_ami_id)  
+    1.2 [AMI IDのリスト](./ec2/list_ami_id)  
