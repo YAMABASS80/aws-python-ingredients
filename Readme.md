@@ -3,7 +3,7 @@
 
 ## メニュー
 1. [EC2](./ec2)  
-    1.1 [インスタンスIDのリスト](./list_instance)  
+    1.1 [インスタンスIDのリスト](./ec2/list_instance_id)  
     1.2 [セキュリティグループのリスト](./list_sg)  
     1.3 [プライベートIPアドレスのリスト](./list_private_ip)  
     1.4 [AMI作成](./creater_ami)
